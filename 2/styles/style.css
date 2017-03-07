@@ -1,0 +1,26 @@
+body{
+  background-image: url('../images/background2.jpg');
+  background-size:cover;
+  font-family: 'Lobster',cursive;
+}
+div{
+  margin: 30px auto;
+  width: 430px;
+  border-radius: 10px;
+  border: 2px solid black;
+  background-color: #ffffff;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  padding: 10px;
+  left: 200px;
+}
+h4{
+  margin: 1px;
+}
+p{
+  height: 1px;
+  text-align: right;
+}
+.gur23{
+  text-align: center;
+}
